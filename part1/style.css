@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+html,body {
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.menu h6 {
+    color: white;
+    font-size: 20px;
+    
+}
+.heading {
+    font-size: 80px;
+    color: white;
+    white-space: wrap;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
