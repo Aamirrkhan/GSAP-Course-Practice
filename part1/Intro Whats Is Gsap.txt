@@ -1,0 +1,6 @@
+-- GSAP
+-- What is Animation
+-- GSAP animation basics
+-- gsap.to() gsap.from()
+-- Some other features
+-- GSAP Timeline and how to control it
